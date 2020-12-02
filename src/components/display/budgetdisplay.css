@@ -1,0 +1,21 @@
+.container {
+ display: flex;
+ justify-content: center;
+
+
+}
+
+.innerDiv{
+    width: 190px;
+    height: 140px;
+    background-color: white;
+   font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+    margin: 2px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.6);
+    padding-top: 35px;
+    line-height: 24px;
+}
+
+
